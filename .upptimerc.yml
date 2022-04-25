@@ -23,11 +23,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: https://berhei.github.io/monitor
+  baseUrl: /
   name: my little monitor
   navbar:
     - title: Status
-      href: /monitor
+      href: https://berhei.github.io/monitor/
     - title: GitHub
       href: https://github.com/berhei/monitor
 
