@@ -15,6 +15,10 @@ sites:
     url: https://shop.krones.com
   - name: Test Company
     url: https://krones.com
+  - name: Test static
+    url: https://nogood.name
+  - name: Test nc
+    url: https://nc.nogood.name
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
