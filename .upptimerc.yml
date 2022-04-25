@@ -7,17 +7,17 @@ sites:
     url: https://www.google.com
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
-#  - name: Hacker News
-#    url: https://news.ycombinator.com
+  - name: PM
+    url: https://pacmart.shop
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
-  - name: Test Shop
+  - name: KS
     url: https://shop.krones.com
-  - name: Test Company
+  - name: K
     url: https://krones.com
-  - name: Test static
+  - name: NGN
     url: https://nogood.name
-  - name: Test nc
+  - name: NC.NGN
     url: https://nc.nogood.name
 
 status-website:
