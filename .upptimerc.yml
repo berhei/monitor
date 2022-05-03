@@ -19,6 +19,8 @@ sites:
     url: https://nogood.name
   - name: NC.NGN
     url: https://nc.nogood.name
+  - name: ccv2
+    url: https://shop-origin.krones.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
