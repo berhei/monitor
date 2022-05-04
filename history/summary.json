@@ -58,9 +58,9 @@
     "url": "https://krones.com",
     "icon": "https://favicons.githubusercontent.com/krones.com",
     "slug": "k",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2547,
     "timeMonth": 2317,
     "timeYear": 2317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "NGN",
@@ -113,11 +115,11 @@
     "icon": "https://favicons.githubusercontent.com/shop-origin.krones.com",
     "slug": "ccv2",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
+    "uptime": "99.43%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 748,
     "timeDay": 748,
     "timeWeek": 748,
