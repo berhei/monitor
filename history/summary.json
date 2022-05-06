@@ -40,19 +40,19 @@
     "url": "https://shop.krones.com",
     "icon": "https://favicons.githubusercontent.com/shop.krones.com",
     "slug": "ks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1567,
-    "timeDay": 914,
-    "timeWeek": 1436,
-    "timeMonth": 1567,
-    "timeYear": 1567,
+    "status": "up",
+    "uptime": "98.18%",
+    "uptimeDay": "79.90%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
+    "time": 1600,
+    "timeDay": 1391,
+    "timeWeek": 1519,
+    "timeMonth": 1600,
+    "timeYear": 1600,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 289
     }
   },
   {
