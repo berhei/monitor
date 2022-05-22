@@ -41,13 +41,13 @@
     "icon": "https://favicons.githubusercontent.com/shop.krones.com",
     "slug": "ks",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "98.92%",
+    "uptime": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 1457,
-    "timeDay": 1552,
+    "timeDay": 1624,
     "timeWeek": 1424,
     "timeMonth": 1457,
     "timeYear": 1457,
@@ -79,9 +79,9 @@
     "url": "https://nogood.name",
     "icon": "https://favicons.githubusercontent.com/nogood.name",
     "slug": "ngn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 503,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 0
+    }
   },
   {
     "name": "NC.NGN",
