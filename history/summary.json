@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 83,
-    "timeWeek": 69,
+    "timeDay": 58,
+    "timeWeek": 66,
     "timeMonth": 87,
     "timeYear": 92,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
-    "time": 1444,
-    "timeDay": 999,
-    "timeWeek": 1185,
-    "timeMonth": 1347,
-    "timeYear": 1444,
+    "time": 1438,
+    "timeDay": 1069,
+    "timeWeek": 1176,
+    "timeMonth": 1328,
+    "timeYear": 1438,
     "dailyMinutesDown": {
       "2022-06-08": 69
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/shop.krones.com",
     "slug": "ks",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.25%",
-    "time": 1411,
-    "timeDay": 1137,
-    "timeWeek": 1238,
-    "timeMonth": 1336,
-    "timeYear": 1411,
+    "uptimeYear": "99.27%",
+    "time": 1403,
+    "timeDay": 930,
+    "timeWeek": 1184,
+    "timeMonth": 1332,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2022-05-21": 16,
       "2022-05-06": 483
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2243,
-    "timeDay": 2100,
-    "timeWeek": 2024,
-    "timeMonth": 2215,
-    "timeYear": 2243,
+    "time": 2237,
+    "timeDay": 1856,
+    "timeWeek": 1966,
+    "timeMonth": 2206,
+    "timeYear": 2237,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 553,
-    "timeDay": 391,
-    "timeWeek": 473,
-    "timeMonth": 547,
-    "timeYear": 553,
+    "time": 550,
+    "timeDay": 372,
+    "timeWeek": 471,
+    "timeMonth": 538,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2022-05-22": 28
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1142,
-    "timeDay": 792,
-    "timeWeek": 1387,
-    "timeMonth": 1188,
-    "timeYear": 1142,
+    "time": 1136,
+    "timeDay": 741,
+    "timeWeek": 1378,
+    "timeMonth": 1169,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2022-06-07": 21
     }
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 288,
-    "timeWeek": 369,
-    "timeMonth": 432,
-    "timeYear": 444,
+    "time": 442,
+    "timeDay": 367,
+    "timeWeek": 374,
+    "timeMonth": 426,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   }
 ]
