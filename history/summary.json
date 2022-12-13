@@ -22,9 +22,9 @@
     "url": "https://pacmart.shop",
     "icon": "https://icons.duckduckgo.com/ip3/pacmart.shop.ico",
     "slug": "pm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 1415,
     "timeYear": 1463,
     "dailyMinutesDown": {
+      "2022-12-13": 0,
       "2022-10-27": 48,
       "2022-06-08": 69
     }
@@ -44,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.krones.com.ico",
     "slug": "ks",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 1309,
     "timeDay": 1269,
     "timeWeek": 1447,
