@@ -68,19 +68,19 @@
     "url": "https://krones.com",
     "icon": "https://icons.duckduckgo.com/ip3/krones.com.ico",
     "slug": "k",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 2475,
-    "timeDay": 2611,
-    "timeWeek": 2701,
-    "timeMonth": 2783,
-    "timeYear": 2475,
+    "time": 2489,
+    "timeDay": 3942,
+    "timeWeek": 3135,
+    "timeMonth": 2898,
+    "timeYear": 2489,
     "dailyMinutesDown": {
-      "2023-01-25": 33
+      "2023-01-25": 46
     }
   },
   {
