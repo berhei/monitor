@@ -97,19 +97,19 @@
     "url": "https://nogood.name",
     "icon": "https://icons.duckduckgo.com/ip3/nogood.name.ico",
     "slug": "ngn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 606,
-    "timeDay": 423,
-    "timeWeek": 582,
-    "timeMonth": 766,
+    "timeDay": 536,
+    "timeWeek": 591,
+    "timeMonth": 763,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2023-09-02": 0
+      "2023-09-02": 12
     }
   },
   {
