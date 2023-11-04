@@ -101,9 +101,9 @@
     "url": "https://nogood.name",
     "icon": "https://icons.duckduckgo.com/ip3/nogood.name.ico",
     "slug": "ngn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 518,
     "timeMonth": 571,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-04": 0
+    }
   },
   {
     "name": "NC.NGN",
