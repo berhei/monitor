@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.krones.com.ico",
     "slug": "ks",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -101,9 +101,9 @@
     "url": "https://nogood.name",
     "icon": "https://icons.duckduckgo.com/ip3/nogood.name.ico",
     "slug": "ngn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 589,
     "timeMonth": 537,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "NC.NGN",
