@@ -1,7 +1,7 @@
 url: https://shop.krones.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-01T01:35:42.058Z
+status: up
+code: 200
+responseTime: 1548
+lastUpdated: 2023-12-01T02:23:04.932Z
 startTime: 2022-04-25T12:57:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
