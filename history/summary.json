@@ -26,10 +26,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pacmart.shop.ico",
     "slug": "pm",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 815,
     "timeDay": 503,
@@ -37,7 +37,6 @@
     "timeMonth": 492,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-01-10": 13,
       "2023-07-26": 29,
       "2023-04-29": 20,
       "2023-02-03": 17
