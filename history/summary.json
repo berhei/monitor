@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pacmart.shop.ico",
     "slug": "pm",
     "status": "down",
-    "uptime": "76.45%",
+    "uptime": "76.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.21%",
+    "uptimeYear": "40.13%",
     "time": 549,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-11-12": 208,
+      "2024-11-12": 627,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -268,7 +268,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.60%",
+    "uptimeMonth": "90.56%",
     "uptimeYear": "98.30%",
     "time": 1661,
     "timeDay": 1369,
@@ -362,9 +362,9 @@
     "url": "https://nc.nogood.name",
     "icon": "https://icons.duckduckgo.com/ip3/nc.nogood.name.ico",
     "slug": "nc-ngn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -373,7 +373,9 @@
     "timeWeek": 1191,
     "timeMonth": 1134,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "ccv2",
