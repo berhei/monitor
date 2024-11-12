@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-11-12": 627,
+      "2024-11-12": 643,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -268,7 +268,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.56%",
+    "uptimeMonth": "90.60%",
     "uptimeYear": "98.30%",
     "time": 1661,
     "timeDay": 1369,
@@ -362,19 +362,19 @@
     "url": "https://nc.nogood.name",
     "icon": "https://icons.duckduckgo.com/ip3/nc.nogood.name.ico",
     "slug": "nc-ngn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1158,
-    "timeDay": 1174,
-    "timeWeek": 1191,
-    "timeMonth": 1134,
-    "timeYear": 1122,
+    "timeDay": 972,
+    "timeWeek": 1139,
+    "timeMonth": 1122,
+    "timeYear": 1121,
     "dailyMinutesDown": {
-      "2024-11-12": 0
+      "2024-11-12": 16
     }
   },
   {
