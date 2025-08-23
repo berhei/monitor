@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 208,
-    "timeWeek": 113,
-    "timeMonth": 95,
+    "timeDay": 75,
+    "timeWeek": 103,
+    "timeMonth": 94,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pacmart.shop.ico",
     "slug": "pm",
     "status": "up",
-    "uptime": "67.21%",
+    "uptime": "67.23%",
     "uptimeDay": "98.67%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "28.60%",
+    "uptimeYear": "28.75%",
     "time": 293,
-    "timeDay": 256,
-    "timeWeek": 297,
+    "timeDay": 254,
+    "timeWeek": 283,
     "timeMonth": 306,
     "timeYear": 293,
     "dailyMinutesDown": {
@@ -294,8 +294,7 @@
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
-      "2024-08-24": 1440,
-      "2024-08-23": 1440
+      "2024-08-24": 1440
     }
   },
   {
@@ -310,10 +309,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
     "time": 1432,
-    "timeDay": 1268,
-    "timeWeek": 969,
+    "timeDay": 848,
+    "timeWeek": 955,
     "timeMonth": 934,
-    "timeYear": 1384,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2025-05-15": 17,
       "2025-05-13": 17,
@@ -338,10 +337,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.63%",
-    "time": 3468,
-    "timeDay": 3400,
-    "timeWeek": 3081,
-    "timeMonth": 3167,
+    "time": 3466,
+    "timeDay": 2793,
+    "timeWeek": 3033,
+    "timeMonth": 3157,
     "timeYear": 3486,
     "dailyMinutesDown": {
       "2025-07-31": 87,
@@ -397,9 +396,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 644,
-    "timeDay": 689,
-    "timeWeek": 632,
-    "timeMonth": 594,
+    "timeDay": 437,
+    "timeWeek": 610,
+    "timeMonth": 584,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2024-12-13": 236
@@ -417,9 +416,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1230,
-    "timeDay": 1203,
-    "timeWeek": 1212,
-    "timeMonth": 1283,
+    "timeDay": 990,
+    "timeWeek": 1137,
+    "timeMonth": 1263,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2025-06-11": 18,
@@ -441,11 +440,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 612,
-    "timeWeek": 532,
-    "timeMonth": 528,
-    "timeYear": 548,
+    "time": 540,
+    "timeDay": 366,
+    "timeWeek": 496,
+    "timeMonth": 519,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
