@@ -1,7 +1,7 @@
 url: https://krones.com
-status: down
-code: 503
-responseTime: 15536
-lastUpdated: 2025-10-19T02:51:30.948Z
+status: up
+code: 200
+responseTime: 3549
+lastUpdated: 2025-10-19T03:41:53.549Z
 startTime: 2022-04-25T12:57:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
