@@ -1,7 +1,7 @@
 url: https://pacmart.shop
-status: up
-code: 200
-responseTime: 298
-lastUpdated: 2026-01-09T23:20:52.101Z
+status: down
+code: 503
+responseTime: 145
+lastUpdated: 2026-01-10T19:38:27.701Z
 startTime: 2022-04-25T12:57:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
