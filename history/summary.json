@@ -31,16 +31,17 @@
     "status": "down",
     "uptime": "71.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.75%",
-    "uptimeMonth": "81.30%",
+    "uptimeWeek": "17.67%",
+    "uptimeMonth": "81.05%",
     "uptimeYear": "82.78%",
     "time": 338,
     "timeDay": 215,
     "timeWeek": 238,
-    "timeMonth": 351,
+    "timeMonth": 349,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2026-03-13": 1410,
+      "2026-03-14": 78,
+      "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -106,8 +107,7 @@
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
-      "2025-03-15": 1440,
-      "2025-03-14": 1440
+      "2025-03-15": 1440
     }
   },
   {
@@ -124,7 +124,7 @@
     "time": 1267,
     "timeDay": 1027,
     "timeWeek": 966,
-    "timeMonth": 994,
+    "timeMonth": 963,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2026-03-12": 56,
@@ -141,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/krones.com.ico",
     "slug": "k",
     "status": "down",
-    "uptime": "93.29%",
+    "uptime": "93.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "74.30%",
+    "uptimeYear": "74.28%",
     "time": 3327,
     "timeDay": 1451,
     "timeWeek": 1025,
-    "timeMonth": 1011,
+    "timeMonth": 998,
     "timeYear": 3322,
     "dailyMinutesDown": {
-      "2026-03-13": 1410,
+      "2026-03-14": 79,
+      "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -276,8 +277,7 @@
       "2025-04-23": 16,
       "2025-04-18": 57,
       "2025-04-14": 36,
-      "2025-03-31": 36,
-      "2025-03-14": 88
+      "2025-03-31": 36
     }
   },
   {
@@ -294,7 +294,7 @@
     "time": 657,
     "timeDay": 537,
     "timeWeek": 605,
-    "timeMonth": 612,
+    "timeMonth": 609,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2026-03-10": 28,
@@ -317,7 +317,7 @@
     "time": 1315,
     "timeDay": 1185,
     "timeWeek": 1232,
-    "timeMonth": 1290,
+    "timeMonth": 1291,
     "timeYear": 1349,
     "dailyMinutesDown": {
       "2026-03-13": 27,
@@ -341,7 +341,7 @@
     "time": 545,
     "timeDay": 624,
     "timeWeek": 520,
-    "timeMonth": 535,
+    "timeMonth": 532,
     "timeYear": 539,
     "dailyMinutesDown": {}
   }
